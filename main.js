@@ -1,3 +1,25 @@
+/********************************** REVISION 2 ENDS ***************************/
+// ************** Stacks (revision) - learning phase 1 ***************
+// var letters = [];
+// var word = "FreeCodeCamp";
+// var rword = "";
+// for (let i = 0; i < word.length; i++) {
+//     letters.push(word[i]);
+// }
+// for (let i = 0; i < word.length; i++) {
+//     rword += letters.pop();
+// }
+// // console.log(letters)
+// // console.log(rword)
+// if (rword === word) {
+//     console.log(word + " is a palindrome");
+// } else {
+//     console.log(word + " is not a palindrome");
+// }
+
+// ************** Sets (revision) - learning phase 2 ***************
+
+
 // ************************************** Learning Phase 3 *******************************************
 // *************** Queue ***********************************
 // function Queue () {
@@ -181,7 +203,7 @@
 // var letters = []; // this is our stack
 // var word = "racecar"; // use this as well: var word = "FreeCodeCamp";
 // var rword = "";
-// // put letters  fo word into stack
+// // put letters of word into stack
 // for (var i = 0; i < word.length; i++) {
 //     letters.push(word[i]);
 // }
@@ -238,7 +260,7 @@
 
 
 
-/********************************** REVISION ENDS ***************************/
+/********************************** REVISION 1 ENDS ***************************/
 // *********************** Stack (revision) *********************
 // class Stack {
 //     constructor() {
